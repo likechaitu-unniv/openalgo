@@ -20,9 +20,6 @@ venv/
 .Python
 
 # Environment and secrets
-.env
-.env.*
-*.env
 env.backup
 !.sample.env
 !**/.sample.env
